@@ -1,1 +1,4 @@
-added text to bar.txt
+one
+two
+three
+
